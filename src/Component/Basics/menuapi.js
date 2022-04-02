@@ -30,7 +30,7 @@ const Menu = [
   },
   {
     id: 4,
-    image: "../images/chola.jpg",
+    image: "../restourent-app/images/chola.jpg",
     name: "chola",
     category: "lunch",
     price: "50₹",
@@ -39,7 +39,7 @@ const Menu = [
   },
   {
     id: 5,
-    image: "../images/pizza.jpg",
+    image: "../restourent-app/public/images/pizza.jpg",
     name: "pizza",
     category: "evening",
     price: "80₹",
