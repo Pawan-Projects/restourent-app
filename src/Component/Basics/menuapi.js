@@ -1,7 +1,7 @@
 const Menu = [
   {
     id: 1,
-    image: "./restourent-app/maggi.jpg",
+    image: "./restourent-app/public/maggi.jpg",
     name: "maggiess",
     category: "breakfast",
     price: "12₹",
@@ -11,7 +11,7 @@ const Menu = [
 
   {
     id: 2,
-    image: "URL(./restourent-app/images/allupakoida.jpg)",
+    image: "URL(./restourent-app/public/images/allupakoida.jpg)",
     name: "allu pakoida",
     category: "evening",
     price: "20₹",
