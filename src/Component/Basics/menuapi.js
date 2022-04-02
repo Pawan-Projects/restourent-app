@@ -2,7 +2,7 @@
 const Menu = [
   {
     id: 1,
-    image: "./restourent-app/public/maggi.jpg",
+    image: "../restourent-app/public/maggi.jpg",
     name: "maggiess",
     category: "breakfast",
     price: "12₹",
@@ -48,7 +48,7 @@ const Menu = [
   },
   {
     id: 6,
-    image: "../images/nonvegthali.jpg",
+    image: "../public/nonvegthali.jpg",
     name: "Non-Veg Thali",
     category: "dinner",
     price: "180₹",
