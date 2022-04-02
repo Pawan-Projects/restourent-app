@@ -1,7 +1,7 @@
 const Menu = [
   {
     id: 1,
-    image: "restourent-app/public/images/maggi.jpg",
+    image: "./restourent-app/public/images/maggi.jpg",
     name: "maggi",
     category: "breakfast",
     price: "12₹",
@@ -11,7 +11,7 @@ const Menu = [
 
   {
     id: 2,
-    image: "restourent-app/public/images/allupakoida.jpg",
+    image: "./restourent-app/public/images/allupakoida.jpg",
     name: "allu pakoida",
     category: "evening",
     price: "20₹",
@@ -20,7 +20,7 @@ const Menu = [
   },
   {
     id: 3,
-    image: "../images/corn.jpg",
+    image: "./public/images/corn.jpg",
     name: "corn",
     category: "breakfast",
     price: "10₹",
