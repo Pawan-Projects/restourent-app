@@ -11,7 +11,7 @@ const Menu = [
 
   {
     id: 2,
-    image: "public/images/allupakoida.jpg",
+    image: "restourent-app/public/images/allupakoida.jpg",
     name: "allu pakoida",
     category: "evening",
     price: "20₹",
